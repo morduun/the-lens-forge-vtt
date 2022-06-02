@@ -1,0 +1,22 @@
+{
+  "THELENS.AbilityStr": "Strength",
+  "THELENS.AbilityCon": "Constitution",
+  "THELENS.AbilityDex": "Dexterity",
+  "THELENS.AbilityInt": "Intelligence",
+  "THELENS.AbilityWis": "Wisdom",
+  "THELENS.AbilityCha": "Charisma",
+
+  "THELENS.AbilityStrAbbr": "str",
+  "THELENS.AbilityConAbbr": "con",
+  "THELENS.AbilityDexAbbr": "dex",
+  "THELENS.AbilityIntAbbr": "int",
+  "THELENS.AbilityWisAbbr": "wis",
+  "THELENS.AbilityChaAbbr": "cha",
+
+  "THELENS.EffectCreate": "Create Effect",
+  "THELENS.EffectToggle": "Toggle Effect",
+  "THELENS.EffectEdit": "Edit Effect",
+  "THELENS.EffectDelete": "Delete Effect",
+
+  "THELENS.Add": "Add"
+}
